@@ -12,7 +12,7 @@ public class Calcular_Salario {
         int salarioTotal = 0;
         String nombre;
 
-        // Entradas
+        
         System.out.println("Ingrese su nombre: ");
         nombre = scanner.nextLine();
 
