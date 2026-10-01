@@ -19,7 +19,7 @@ public class Calcular_Salario {
         System.out.println("Ingrese sus horas trabajadas: ");
         horasTrabajadas = scanner.nextInt();
 
-        // Lógica de cálculo
+        
         if (horasTrabajadas <= HORAS_NORMALES) {
             horasNormales = horasTrabajadas;
             horasExtra = 0;
